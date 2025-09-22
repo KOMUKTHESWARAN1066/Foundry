@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoundryERP</string>
+    <string name="Heat">Heat Status</string>
+    <string name="Purchase">Purchase Status</string>
+    <string name="option1">Heat Status</string>
+    <string name="option2">Purchase</string>
+    <string name="option3">Exit</string>
+    <string name="option4">Login</string>
+    <string name="option5">Logout</string>
+    <string name="select_company">Select Company</string>
+</resources>

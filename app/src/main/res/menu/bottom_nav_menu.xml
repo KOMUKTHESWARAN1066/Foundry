@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_heat_status"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/option1" />
+
+    <item
+        android:id="@+id/menu_purchase"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/option2" />
+
+    <item
+        android:id="@+id/menu_exit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/option3" />
+
+    <item
+        android:id="@+id/menu_Logout"
+        android:icon="@drawable/baseline_login_24"
+        android:title="@string/option5" />
+
+
+
+
+    <item
+        android:id="@+id/menu_login"
+        android:icon="@drawable/baseline_login_24"
+        android:title="@string/option4" />
+
+</menu>
